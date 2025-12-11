@@ -1,3 +1,7 @@
 Hi! I'm "ellos". I'm starting out as a developer. Some of my interests are compilers, systems programming, ethical ai development, game development, robotics, and functional programming. My favorite programming languages are Haskell, C++, and Python. I use Emacs for the majority of my text editing needs. 
 
-I currently haven't achieved any great feats of programming, but I am working on a programming language named Gigi (after my dog). I write all my code under open source licenses, but I haven't made any notable contributions to other open source projects as of now. 
+Current Projects:
+
+1. [gigi-lang](https://www.github.com/ellos0/gigi-lang)
+1. [mp](https://www.github.com/ellos0/mp)
+1. [marble-hiking](https://www.github.com/ellos0/marble-hiking)
