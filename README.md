@@ -1,4 +1,5 @@
-Hi! I'm "ellos". I'm starting out as a developer. Some of my interests are compilers, systems programming, ethical ai development, game development, robotics, and functional programming. My favorite programming languages are Haskell, C++, and Python. I use Emacs for the majority of my text editing needs. 
+Hi! I'm "ellos". I'm starting out as a developer. Some of my interests are compilers, systems programming, ethical ai development, game development, robotics, and functional programming. 
+My favorite programming languages are Haskell, C, and Python. I use Emacs for the majority of my text editing needs. 
 
 Current Projects:
 
