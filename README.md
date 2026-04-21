@@ -5,4 +5,4 @@ I like Haskell and ethical software.
 I license (almost, because I'm inefficient) all of my software under public domain licenses.
 
 Successes:
-yarg (https://codeberg.org/ellos/yarg) - A music downloading client.
+- yarg (https://codeberg.org/ellos/yarg) - A music downloading client.
