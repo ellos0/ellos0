@@ -1,8 +1,6 @@
-I'm a programmer, among other things.
-<br>
-I like Haskell and ethical software.
-<br>
-I license (almost, because I'm inefficient) all of my software under public domain licenses.
+Hi! I'm a programmer with a strong emphasis of free and open source philosophies, and developing programs to actually improve the quality of the lives of myself and others _outside_ of programming. I would also like to instate that this is particularly so in the matter of protecting the technological freedoms of others. In my opinion: in a world where technology can be so easily used to control, manipulate, and harm, we, as programmers __must__ fight back in every last way we can, especially in a such progressive and positive way of developing software to reach this goal. Some of the technologies I use to make these goals happen include:
 
-Successes:
-- yarg (https://codeberg.org/ellos/yarg) - A music downloading client.
+Haskell
+- parsec
+
+(more to come soon I promise)
