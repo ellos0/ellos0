@@ -3,4 +3,6 @@ Hi! I'm a programmer with a strong emphasis of free and open source philosophies
 Haskell
 - parsec
 
+C
+
 (more to come soon I promise)
