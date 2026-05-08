@@ -5,4 +5,4 @@ Haskell
 
 C
 
-(more to come soon I promise)
+Outside of programming I'm an activist and musician. Currently I'm enthralled with listening and performing 90s underground hip hop.
