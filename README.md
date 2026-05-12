@@ -5,4 +5,6 @@ Haskell
 
 C
 
+I use some very specific and esoteric tools to get my programming done. I use the Yi text editor mainly as of now, but I'm developing my own to replace it. I'm also hoping to develop a task manager and calendar app similar to Taskwarrior to replace it.
+
 Outside of programming I'm an activist and musician. Currently I'm enthralled with listening and performing 90s underground hip hop.
