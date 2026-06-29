@@ -1,8 +1,11 @@
-Hello. None of the code commited by me is or ever will use any AI whatsoever.
+Hello!
 
-I use Haskell and C mainly.
+I'm a teenage developer who likes making creative software
 
-What I'm currently working on:
+I enjoy programming in Haskell, but I hope to learn other programming languages which I enjoy just as much
 
-- hs-text: a library for text editors in Haskell
-- bubblescript: a programming language in Haskell made for learning purposes
+---
+
+My favorite projects so far are:
+
+bubblescript - a simple compiler
