@@ -8,7 +8,7 @@ I enjoy programming in Haskell, but I hope to learn other programming languages 
 
 Tools and Languages
 
-[![My Skills](https://skillicons.dev/icons?i=haskell,js,html,css,c)]()
+[![My Skills](https://skillicons.dev/icons?i=c,haskell,js,ts,html,css,python,godot,lua,emacs)]()
 
 ---
 
